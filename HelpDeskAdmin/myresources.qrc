@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/MyFiles">
+        <file>HelpDeskAdmin.pro</file>
+        <file>Support-icon-helpticket.png</file>
+        <file>custom_icon.ico</file>
+    </qresource>
+</RCC>
