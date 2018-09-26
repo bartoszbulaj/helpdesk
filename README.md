@@ -1,2 +1,2 @@
 # helpdesk
-Aplikacja do raportowania błędów i usterek w sieci LAN do Administratora sieci, wykorzystująca bazę danych
+Aplikacja do raportowania problemów do działu IT. Zawiera moduł kliencki i administracyjny, których komunikacja jest oparta o zdalną bazę danych.
